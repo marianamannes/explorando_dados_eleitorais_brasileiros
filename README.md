@@ -1,5 +1,5 @@
-# explorando_dados_eleitorais
-Manipulando dados eleitoriais de 2020 disponibilizados pelo TSE. <br><br>
+# explorando_dados_eleitorais_brasileiros
+Manipulando dados eleitorais brasileiros de 2020 disponibilizados pelo TSE. <br><br>
 Resultados [nesse artigo](https://medium.com/@marianamannes/explorando-dados-eleitorais-brasileiros-a10be3e89be0).
 
 ## Pré-requisitos
